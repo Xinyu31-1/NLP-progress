@@ -23,7 +23,7 @@
 - [Missing elements](english/missing_elements.md)
 - [Multi-task learning](english/multi-task_learning.md)
 - [Multi-modal](english/multimodal.md)
-- [Named entity recognition](english/named_entity_recognition.md)
+- [Named entity recognition](english/named_entity_recognition.md) 
 - [Natural language inference](english/natural_language_inference.md)
 - [Part-of-speech tagging](english/part-of-speech_tagging.md)
 - [Paraphrase Generation](english/paraphrase-generation.md)
